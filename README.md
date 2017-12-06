@@ -1,5 +1,8 @@
 # CSCI158
 AIR DROP GAME
+
+
+
 AIR DROP
 
   This game was created in order to be a visual representation of the United States foreign aid to countries across the world. The aid that the United States gives to other counties is usually broken up into two major categories, military aid and economic aid. Countries that receive foreign aid include developing counties, countries of strategic importance to the United States, and countries recovering from a time of war. Foreign aid is usually unpopular with the general public because they overestimate foreign aid as a share of the total federal budget. The United States government channels about half of its economic aid through a special organization knows as United States Agency for International Development (USAID).  Foreign aid between the United States State department and USAID totaled to 50.1 billion dollars in the 2017 fiscal year.  
